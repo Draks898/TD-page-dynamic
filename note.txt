@@ -1,0 +1,6 @@
+https://www.internetingishard.com/
+si il y a des lacune e html
+correction deploimment div : https://codepen.io/gharel/pen/ExQgGoz
+correction hover: https://codepen.io/gharel/pen/WNMGLYy
+correcttion annimation: https://codepen.io/gharel/pen/qBxagZa
+correction ajax: https://codepen.io/gharel/pen/JjpERgP
